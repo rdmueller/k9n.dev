@@ -1,0 +1,2 @@
+Sitemap: https://k9n.dev/sitemap.xml
+Disallow: /recruitment/
