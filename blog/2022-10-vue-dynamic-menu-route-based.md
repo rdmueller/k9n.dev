@@ -41,7 +41,7 @@ You can check out the complete working example with the source code in the follo
 
 https://stackblitz.com/edit/vue3-dynamic-menu
 
-## basic app setup
+## basic app setup test
 
 Let's create a simple Vue project using Vue3 and Vue-Router.
 
